@@ -1,0 +1,58 @@
+<style>
+    .inside-nav-container {
+         justify-content: center;
+
+        }
+        .nav-bar-container {
+            display: flex;
+            margin: 10px;
+            justify-content: center;
+
+        }
+                  ul {
+    border-radius: 25px;
+      background-position: left top;
+      background-repeat: repeat;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#C4CBCA;
+  border-style:outset;
+  border-color:#D81212;
+   --
+
+                  }
+
+     a:hover{
+            text-shadow: 2px 2px 5px black;
+
+
+     }
+    li {
+      float: left;
+       border-right:2px solid #D81212;
+
+
+
+    }
+
+    li a:hover {
+    background-image:url('https://cutewallpaper.org/21x/tljaxvzmp/48-Red-Metal-Wallpaper-on-WallpaperSafari.jpg');
+    background-repeat: no-repeat;
+        background-size:cover;
+        color:white;
+        width: 47px;
+        height: 20px;
+
+    }
+
+    li a {
+      display: block;
+      text-decoration: none;
+      padding: 15px 80px;
+      text-align:center;
+      color: #D81212;
+
+
+    }
